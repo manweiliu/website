@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>poverty - Tag - My New Hugo Site</title>
+        <link>http://example.org/tags/poverty/</link>
+        <description>poverty - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 08 Feb 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://example.org/tags/poverty/" rel="self" type="application/rss+xml" /><item>
+    <title>贫穷与暴力的遗传</title>
+    <link>http://example.org/posts/weekly-paper-6/</link>
+    <pubDate>Wed, 08 Feb 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>http://example.org/posts/weekly-paper-6/</guid>
+    <description><![CDATA[连接和组合多个数据库的艺术。 1 The Causal Impact of Removing Children from Abusive and Neglectful Homes | NBER 每年，美国的儿童保护服务机构都会调查400多万起虐待或忽视的指控（美国卫生与公众服务]]></description>
+</item>
+</channel>
+</rss>

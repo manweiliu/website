@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>media - Tag - My New Hugo Site</title>
+        <link>http://example.org/tags/media/</link>
+        <description>media - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://example.org/tags/media/" rel="self" type="application/rss+xml" /><item>
+    <title>效率不高，都怪手机/app...</title>
+    <link>http://example.org/posts/weekly-paper-5/</link>
+    <pubDate>Wed, 01 Feb 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>http://example.org/posts/weekly-paper-5/</guid>
+    <description><![CDATA[关于工具、媒介和效率的三篇文章/研究。 1 Why books donʼt work 一个我们可能羞于承认，但其实常见到出人意料的现象：书籍传递信息的效率很高（knowl]]></description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>cognition - Tag - My New Hugo Site</title>
+        <link>http://example.org/tags/cognition/</link>
+        <description>cognition - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 22 Jan 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://example.org/tags/cognition/" rel="self" type="application/rss+xml" /><item>
+    <title>一些是非对错</title>
+    <link>http://example.org/posts/weekly-paper-4/</link>
+    <pubDate>Sun, 22 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>http://example.org/posts/weekly-paper-4/</guid>
+    <description><![CDATA[关于我们的认知。 1 Nielsen Rehbeck, When choices are mistakes, AER2022 大量的实验研究发现人们在实验室中的决策违反了理性决策理论中的公理。从实然分析的角度，理论没有准确地描述人们的]]></description>
+</item>
+</channel>
+</rss>

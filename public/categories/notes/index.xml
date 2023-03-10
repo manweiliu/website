@@ -1,0 +1,79 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Notes - Category - My New Hugo Site</title>
+        <link>http://example.org/categories/notes/</link>
+        <description>Notes - Category - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 05 Mar 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://example.org/categories/notes/" rel="self" type="application/rss+xml" /><item>
+    <title>选举与选票</title>
+    <link>http://example.org/posts/weekly-paper-10/</link>
+    <pubDate>Sun, 05 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>http://example.org/posts/weekly-paper-10/</guid>
+    <description><![CDATA[洛阳亲友如相问，一片冰心在自科。 1 Brahmin left versus merchant right: Changing political cleavages in 21 Western democracies, 1948-2020, Gethin Martinez-Toledano Piketty, QJE2022 近年来，西方民主国家经历了重大变革，具体表现为政治分裂、环境问题日益突出]]></description>
+</item>
+<item>
+    <title>贫穷与暴力的遗传</title>
+    <link>http://example.org/posts/weekly-paper-6/</link>
+    <pubDate>Wed, 08 Feb 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>http://example.org/posts/weekly-paper-6/</guid>
+    <description><![CDATA[连接和组合多个数据库的艺术。 1 The Causal Impact of Removing Children from Abusive and Neglectful Homes | NBER 每年，美国的儿童保护服务机构都会调查400多万起虐待或忽视的指控（美国卫生与公众服务]]></description>
+</item>
+<item>
+    <title>效率不高，都怪手机/app...</title>
+    <link>http://example.org/posts/weekly-paper-5/</link>
+    <pubDate>Wed, 01 Feb 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>http://example.org/posts/weekly-paper-5/</guid>
+    <description><![CDATA[关于工具、媒介和效率的三篇文章/研究。 1 Why books donʼt work 一个我们可能羞于承认，但其实常见到出人意料的现象：书籍传递信息的效率很高（knowl]]></description>
+</item>
+<item>
+    <title>一些是非对错</title>
+    <link>http://example.org/posts/weekly-paper-4/</link>
+    <pubDate>Sun, 22 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>http://example.org/posts/weekly-paper-4/</guid>
+    <description><![CDATA[关于我们的认知。 1 Nielsen Rehbeck, When choices are mistakes, AER2022 大量的实验研究发现人们在实验室中的决策违反了理性决策理论中的公理。从实然分析的角度，理论没有准确地描述人们的]]></description>
+</item>
+<item>
+    <title>平等之路道坚且长</title>
+    <link>http://example.org/posts/weekly-paper-3/</link>
+    <pubDate>Sun, 15 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>http://example.org/posts/weekly-paper-3/</guid>
+    <description><![CDATA[1 Dhar Jain Jayachandran, Reshaping adolescents’ gender attitudes: Evidence from a school-based experiment in India&gt;, NBER2018—&gt;AER2022 在很多发展中国家，女性在社会活动中仍然受到诸多限]]></description>
+</item>
+<item>
+    <title>我们不生产谎言，只是帮你说服你自己</title>
+    <link>http://example.org/posts/weekly-paper-2/</link>
+    <pubDate>Sun, 08 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>http://example.org/posts/weekly-paper-2/</guid>
+    <description><![CDATA[关于政治中的叙事和观点的形成。 1 Miani Hills Bangerter, Interconnectedness and (in)coherence as a signature of conspiracy worldviews, SciAdv2022 Theory Conspiracy theories may arise out of an overarching conspiracy worldview that identifies common elements of subterfuge across unrelated or even contradictory explanations, leading to networks of self-reinforcing beliefs. People who believe in one CT tend to believe in others, irrespective]]></description>
+</item>
+<item>
+    <title>法外狂徒</title>
+    <link>http://example.org/posts/weekly-paper-1/</link>
+    <pubDate>Sun, 01 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>http://example.org/posts/weekly-paper-1/</guid>
+    <description><![CDATA[关于有组织犯罪。 1 Duijn Kashirin Sloot, The Relative Ineffectiveness of Criminal Network Disruption, Scientific reports 2014 第一篇结合social network analysis和荷兰警察局的数据，研究如何更有效地打击犯罪网络。 分析框]]></description>
+</item>
+<item>
+    <title>米尔斯的《治学之道》</title>
+    <link>http://example.org/posts/mills-craftmanship/</link>
+    <pubDate>Wed, 06 Jul 2022 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>http://example.org/posts/mills-craftmanship/</guid>
+    <description><![CDATA[无需解释米尔斯《社会学的想象力》这本书的影响力。它的名声可能太大了了一点，以至于会在不恰当的时机吸引到尚不需要它的人。我本科时第一次挑战它，]]></description>
+</item>
+<item>
+    <title>Intransitivities in Multidimensional Voting</title>
+    <link>http://example.org/posts/intransitivity/</link>
+    <pubDate>Thu, 19 May 2022 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>http://example.org/posts/intransitivity/</guid>
+    <description><![CDATA[The intransitivity of social choice rules has been a concern ever since Arrow&rsquo;s impossibility theorem. In his 1976 paper, McKelvey shows that, if there is no equilibrium outcome, then all points in the whole policy space are in the same cycle set. When this happens, you can always find another policy that is favored over the current one by a majority of the voters. In other words, policy outcomes generated by a simple majority voting rule are not stable.]]></description>
+</item>
+</channel>
+</rss>

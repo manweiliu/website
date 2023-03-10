@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>political - Tag - My New Hugo Site</title>
+        <link>http://example.org/tags/political/</link>
+        <description>political - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 05 Mar 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://example.org/tags/political/" rel="self" type="application/rss+xml" /><item>
+    <title>选举与选票</title>
+    <link>http://example.org/posts/weekly-paper-10/</link>
+    <pubDate>Sun, 05 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>http://example.org/posts/weekly-paper-10/</guid>
+    <description><![CDATA[洛阳亲友如相问，一片冰心在自科。 1 Brahmin left versus merchant right: Changing political cleavages in 21 Western democracies, 1948-2020, Gethin Martinez-Toledano Piketty, QJE2022 近年来，西方民主国家经历了重大变革，具体表现为政治分裂、环境问题日益突出]]></description>
+</item>
+<item>
+    <title>我们不生产谎言，只是帮你说服你自己</title>
+    <link>http://example.org/posts/weekly-paper-2/</link>
+    <pubDate>Sun, 08 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>http://example.org/posts/weekly-paper-2/</guid>
+    <description><![CDATA[关于政治中的叙事和观点的形成。 1 Miani Hills Bangerter, Interconnectedness and (in)coherence as a signature of conspiracy worldviews, SciAdv2022 Theory Conspiracy theories may arise out of an overarching conspiracy worldview that identifies common elements of subterfuge across unrelated or even contradictory explanations, leading to networks of self-reinforcing beliefs. People who believe in one CT tend to believe in others, irrespective]]></description>
+</item>
+</channel>
+</rss>

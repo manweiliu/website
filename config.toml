@@ -1,0 +1,134 @@
+baseURL = 'http://example.org/'
+title = 'My New Hugo Site'
+theme = 'LoveIt'
+
+# language code ["en", "zh-CN", "fr", "pl", ...]
+languageCode = "en"
+# language name ["English", "简体中文", "Français", "Polski", ...]
+languageName = "English"
+# whether to include Chinese/Japanese/Korean
+hasCJKLanguage = true
+
+# whether to use emoji code
+enableEmoji = true
+
+# Author config
+[author]
+  name = "Manwei Liu"
+  email = ""
+  link = ""
+
+# Menu config
+[menu]
+  [[menu.main]]
+    weight = 2
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Posts"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = ""
+  [[menu.main]]
+    weight = 3
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+  [[menu.main]]
+    weight = 4
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+  [[menu.main]]
+    weight = 1
+    identifier = "home"
+    pre = ""
+    post = ""
+    name = "Home"
+    url = "/about/"
+    title = ""
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
+
+# Page global config
+  # 文章页面全局配置
+  [params.page]
+    # whether to hide a page from home page
+    # 是否在主页隐藏一篇文章
+    hiddenFromHomePage = false
+    # whether to hide a page from search results
+    # 是否在搜索结果中隐藏一篇文章
+    hiddenFromSearch = false
+    # whether to enable twemoji
+    # 是否使用 twemoji
+    twemoji = false
+    # whether to enable lightgallery
+    # 是否使用 lightgallery
+    lightgallery = false
+    # whether to enable the ruby extended syntax
+    # 是否使用 ruby 扩展语法
+    ruby = true
+    # whether to enable the fraction extended syntax
+    # 是否使用 fraction 扩展语法
+    fraction = true
+    # whether to enable the fontawesome extended syntax
+    # 是否使用 fontawesome 扩展语法
+    fontawesome = true
+    # whether to show link to Raw Markdown content of the content
+    # 是否显示原始 Markdown 文档内容的链接
+    linkToMarkdown = true
+    # whether to show the full text content in RSS
+    # 是否在 RSS 中显示全文内容
+    rssFullText = false
+    # Table of the contents config
+    # 目录配置
+    [params.page.toc]
+      # whether to enable the table of the contents
+      # 是否使用目录
+      enable = true
+      # whether to keep the static table of the contents in front of the post
+      # 是否保持使用文章前面的静态目录
+      keepStatic = false
+      # whether to make the table of the contents in the sidebar automatically collapsed
+      # 是否使侧边目录自动折叠展开
+      auto = true
+    # Code config
+    # 代码配置
+    [params.page.code]
+      # whether to show the copy button of the code block
+      # 是否显示代码块的复制按钮
+      copy = true
+      # the maximum number of lines of displayed code by default
+      # 默认展开显示的代码行数
+      maxShownLines = 50
+    # KaTeX mathematical formulas config (KaTeX https://katex.org/)
+    # KaTeX 数学公式配置 (KaTeX https://katex.org/)
+    [params.page.math]
+      enable = true
+      # default inline delimiter is $ ... $ and \( ... \)
+      # 默认行内定界符是 $ ... $ 和 \( ... \)
+      inlineLeftDelimiter = ""
+      inlineRightDelimiter = ""
+      # default block delimiter is $$ ... $$, \[ ... \], \begin{equation} ... \end{equation} and some other functions
+      # 默认块定界符是 $$ ... $$, \[ ... \],  \begin{equation} ... \end{equation} 和一些其它的函数
+      blockLeftDelimiter = ""
+      blockRightDelimiter = ""
+      # KaTeX extension copy_tex
+      # KaTeX 插件 copy_tex
+      copyTex = true
+      # KaTeX extension mhchem
+      # KaTeX 插件 mhchem
+      mhchem = true

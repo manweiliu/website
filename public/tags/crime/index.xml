@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>crime - Tag - My New Hugo Site</title>
+        <link>http://example.org/tags/crime/</link>
+        <description>crime - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://example.org/tags/crime/" rel="self" type="application/rss+xml" /><item>
+    <title>法外狂徒</title>
+    <link>http://example.org/posts/weekly-paper-1/</link>
+    <pubDate>Sun, 01 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>http://example.org/posts/weekly-paper-1/</guid>
+    <description><![CDATA[关于有组织犯罪。 1 Duijn Kashirin Sloot, The Relative Ineffectiveness of Criminal Network Disruption, Scientific reports 2014 第一篇结合social network analysis和荷兰警察局的数据，研究如何更有效地打击犯罪网络。 分析框]]></description>
+</item>
+</channel>
+</rss>

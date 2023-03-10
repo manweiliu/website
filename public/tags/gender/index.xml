@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>gender - Tag - My New Hugo Site</title>
+        <link>http://example.org/tags/gender/</link>
+        <description>gender - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 15 Jan 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://example.org/tags/gender/" rel="self" type="application/rss+xml" /><item>
+    <title>平等之路道坚且长</title>
+    <link>http://example.org/posts/weekly-paper-3/</link>
+    <pubDate>Sun, 15 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>http://example.org/posts/weekly-paper-3/</guid>
+    <description><![CDATA[1 Dhar Jain Jayachandran, Reshaping adolescents’ gender attitudes: Evidence from a school-based experiment in India&gt;, NBER2018—&gt;AER2022 在很多发展中国家，女性在社会活动中仍然受到诸多限]]></description>
+</item>
+</channel>
+</rss>
